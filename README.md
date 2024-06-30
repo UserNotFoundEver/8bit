@@ -5,8 +5,16 @@
 
 pip install pydub numpy
 
+python3 8bit.py
+
 # Install #2
 
 https://ffmpeg.org/download.html
+
+# Retro effects:
+
+pip install pydub numpy scipy
+
+python3 retro.py
 
 
